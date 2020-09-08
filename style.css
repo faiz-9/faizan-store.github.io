@@ -876,6 +876,43 @@ a{
 }
 
 
+@media only screen and (max-width: 260px){
+	.last_section{
+		font-size:3px;
+	}
+	
+	.new-menu .list{
+    	display:flex;
+    	flex-direction:column;
+    	/*background-color:yellow;*/
+    	width:100%;
+
+    }
+	
+	
+    .list a{
+    	padding: 2px;
+    	font-size:16px;
+    }
+}
+
+
+@media only screen and (max-width: 220px){
+	 .list a{
+    	padding: 2px;
+    	font-size:16px;
+    }
+}
+
+
+
+@media only screen and (max-width: 180px){
+	 .list a{
+    	padding: 2px;
+    	font-size:14px;
+    }
+}
+
 
 
 
