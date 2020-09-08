@@ -914,6 +914,18 @@ a{
 }
 
 
+@media only screen and (max-width: 120px){
+	 .list a{
+    	padding: 2px;
+    	font-size:12px;
+    }
+}
+
+
+
+
+
+
 
 
 
